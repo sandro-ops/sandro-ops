@@ -1,11 +1,14 @@
 - 👋 Hi, I’m @sandro-ops
 - 👀 I’m a DevOps Cloud Engineer specialized on Azure Cloud
-- 🌱 I’m currently learning kubernetes
+- 🌱 I’m currently learning AWS Cloud
 - ⚡ Certifications:
+  - Azure DevOps
   - Azure Administrator
   - Azure Developer
   - Terraform
   - Docker
+  - FinOps
+  - Kubernetes Developer
 
 <!---
 sandro-ops/sandro-ops is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
