@@ -9,6 +9,7 @@
   - Docker
   - FinOps
   - Kubernetes Developer
+  - AWS Architect Associate
 
 <!---
 sandro-ops/sandro-ops is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
